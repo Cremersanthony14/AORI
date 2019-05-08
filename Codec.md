@@ -74,40 +74,7 @@ Dans le cadre d'un travail a effectuer concernant le cours de AORI ce site va co
 [Codecs manquant audio-video] (https://www.commentcamarche.net/faq/2588-codec-audio-video-manquant-determiner-les-codecs-necessaires)
 [Quel est le meilleur format video pour le web ?](https://www.kalyzee.com/quel-meilleur-format-video-web/)
 [Archivage numérique des films]  (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=121&cad=rja&uact=8&ved=2ahUKEwiW98_61oviAhWGLewKHeogAFQ4eBAWMAB6BAgAEAI&url=http%3A%2F%2Fmemoriav.ch%2Fwp-content%2Fuploads%2F2015%2F12%2FArchivageNum%25C3%25A9riqueDesFilmsEtVid%25C3%25A9os_RecommandationsMemoriav_Web.pdf&usg=AOvVaw20D8JjeWS6rKchLA9DZC2v)
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-[Codecs manquant audio-video]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[differents video format] (https://www.encoding.com/formats/)
+[Utilisationde format video - ableton] (https://help.ableton.com/hc/fr-fr/articles/209773125-Utilisation-de-vid%C3%A9o)
+[Supported video format] (https://www.encoding.com/formats/)
+[Utilisation de videos] (https://help.ableton.com/hc/fr-fr/articles/209773125-Utilisation-de-vid%C3%A9o)
