@@ -49,10 +49,44 @@ Dans le cadre d'un travail a effectuer concernant le cours de AORI ce site va co
 [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/)
 [Codec: outil de compression pour l'audio/vidéo] (https://www.magix.com/fr-be/codec/)
 [Les formats vidéos] (http://multimedia.ulb.ac.be/i135g2/newcomp/video.php)
+[Medialinfo] (https://mediaarea.net/fr/MediaInfo)
+[It-Connect] (https://www.it-connect.fr/convertir-des-fichiers-audio-ou-video-avec-vlc-cest-possible/)
+[Quels sont les différents types de codecs ?] (https://www.3cx.fr/voip-sip/codecs/)
+[Nikon passion codecs] (https://www.nikonpassion.com/comprendre-formats-video-codec-definition-debit/)
+[format pris en charge audio - video] (https://developer.mozilla.org/fr/docs/Web/HTML/Formats_pour_audio_video)
+[Comprendre les codecs] (http://www.nticweb.com/pratique/6953-comprendre-les-codecs-vid%C3%A9o.html)
+[Comment sélectionner un codec ?] (http://fre-ca.faq.panasonic.com/app/answers/detail/a_id/47091/~/comment-s%C3%A9lectionner-un-codec-%28format-vid%C3%A9o%29.)
+[Codec format pour la projection video] (https://formations.afdas.com/intermittents/stages-conventionnes/stages-techniques/fichiers-media-codecs-et-formats-pour-la-projection-video/224595)
+[Comment régler un problème de codec video sur Android ?] (http://www.prodigemobile.com/tutoriel/probleme-codec-video-android/)
+[Comprendre les formats video: debit, definition] (https://www.nikonpassion.com/comprendre-formats-video-codec-definition-debit/)
+[format conteneur] (https://fr.wikipedia.org/wiki/Format_conteneur)
+[What is video codec and difference between file format and extension] (https://www.any-video-converter.com/mac-tutorial/video-codec.php)
+[traitement du signal codec] (http://www.traitement-signal.com/codec.php)
+[afdas formation video] (https://formations.afdas.com/intermittents/stages-conventionnes/stages-techniques/fichiers-media-codecs-et-formats-pour-la-projection-video/224595)
+[Codec G.711] (http://www.traitement-signal.com/g_711.php)
+[Liste des coedcs 1]  (http://www.traitement-signal.com/codec.php)
+[Liste des codecs 2] (http://www.traitement-signal.com/mace_(codec).php)
+[formats et conteneurs] (http://www.traitement-signal.com/format_de_fichiers_audio.php)
+[formats et conteneurs 2] (http://www.traitement-signal.com/material_exchange_format.php)
 [Codec base64] (
 [Codec base64]
 [Codec base64]
 [Codec base64]
-[Codec base64]
-[Codec base64]
-[Codec base64]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
