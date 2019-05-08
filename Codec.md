@@ -68,10 +68,31 @@ Dans le cadre d'un travail a effectuer concernant le cours de AORI ce site va co
 [Liste des codecs 2] (http://www.traitement-signal.com/mace_(codec).php)
 [formats et conteneurs] (http://www.traitement-signal.com/format_de_fichiers_audio.php)
 [formats et conteneurs 2] (http://www.traitement-signal.com/material_exchange_format.php)
-[Codec base64] (
-[Codec base64]
-[Codec base64]
-[Codec base64]
+[definition codec journal du net] (https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203571-codec-definition/)
+[Enrichissez votre site avec de la vidéo et de l'audio] (https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1607438-enrichissez-votre-site-avec-de-la-video-et-de-laudio)
+[Telechargements de codecs] (https://filehippo.com/fr/software/multimedia/codecs/)
+[Codecs manquant audio-video] (https://www.commentcamarche.net/faq/2588-codec-audio-video-manquant-determiner-les-codecs-necessaires)
+[Quel est le meilleur format video pour le web ?](https://www.kalyzee.com/quel-meilleur-format-video-web/)
+[Archivage numérique des films]  (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=121&cad=rja&uact=8&ved=2ahUKEwiW98_61oviAhWGLewKHeogAFQ4eBAWMAB6BAgAEAI&url=http%3A%2F%2Fmemoriav.ch%2Fwp-content%2Fuploads%2F2015%2F12%2FArchivageNum%25C3%25A9riqueDesFilmsEtVid%25C3%25A9os_RecommandationsMemoriav_Web.pdf&usg=AOvVaw20D8JjeWS6rKchLA9DZC2v)
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
+[Codecs manquant audio-video]
 
 
 
