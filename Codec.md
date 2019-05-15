@@ -78,3 +78,17 @@ Dans le cadre d'un travail a effectuer concernant le cours de AORI ce site va co
 [Utilisationde format video - ableton] (https://help.ableton.com/hc/fr-fr/articles/209773125-Utilisation-de-vid%C3%A9o)
 [Supported video format] (https://www.encoding.com/formats/)
 [Utilisation de videos] (https://help.ableton.com/hc/fr-fr/articles/209773125-Utilisation-de-vid%C3%A9o)
+(http://icar.cnrs.fr/projets/corinte/confection/codecs.htm)
+(http://www.aidewindows.net/xp/logiciels_codecs.php)
+[LES CONTENEURS VIDEO, LES CODECS et le convertisseur vidéo WINFF] (http://info.page.free.fr/tutos/WinFF_convertisseur_video.pdf)
+(https://ffmpeg.org/ffmpeg-codecs.html)
+[Les codecs - Formats vidéo] (http://www.aidewindows.net/xp/logiciels_codecs_affichage.php)
+[Définir des propriétés de transcodage de manière automatique dans Compressor] (https://support.apple.com/fr-be/HT209062) 
+[Tableau Comparatif - Algorithmes de compression] (CoDecs)(https://www.philips.be/fr/c-f/XC000010636/quest-ce-quun-codec-et-pourquoi-dois-je-en-installer-un-sur-mon-pc-)
+[Codecs et conteneurs] (http://forum.mac-video.fr/articles/Codec/Codec.html)
+[Les extensions de format vidéo] (http://www.clashinfo.com/aide-informatique/multimedia/art138-extensions-format.html)
+[Tableau des principaux formats vidéo] (https://www.linternaute.com/hightech/micro/1092186-tout-sur-les-formats-multimedia/1092193-les-principaux-formats-video)
+[codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-specifications-techniques/)
+[Alternative461/6Formats audio et vidéo] (http://alternative46.com/wp-content/uploads/2013/06/A46_format_video_audio.pdf)
+
+
