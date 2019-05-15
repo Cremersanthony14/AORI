@@ -90,5 +90,6 @@ Dans le cadre d'un travail a effectuer concernant le cours de AORI ce site va co
 [Tableau des principaux formats vidéo] (https://www.linternaute.com/hightech/micro/1092186-tout-sur-les-formats-multimedia/1092193-les-principaux-formats-video)
 [codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-specifications-techniques/)
 [Alternative461/6Formats audio et vidéo] (http://alternative46.com/wp-content/uploads/2013/06/A46_format_video_audio.pdf)
-
-
+[Les différents formats d’export vidéo] (https://www.david-fabre.com/differents-formats-export-video/)
+[Qu'est qu'un codec, qu'est ce qu'un conteneur ? Muxers et codecs] (http://mdesigner.free.fr/index.php?2007/02/08/174-qu-est-qu-un-codec-qu-est-ce-qu-un-conteneur-muxers-et-codecs)
+[PRINCIPAUX FORMATS DE FICHIERS AUDIO ET VIDÉO] (https://interlangues.enseigne.ac-lyon.fr/spip/IMG/pdf/Formats_de_fichiers_audio_video.pdf)
