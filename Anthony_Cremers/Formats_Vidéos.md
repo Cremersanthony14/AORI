@@ -19,3 +19,5 @@ articles concernant les formats vidéos
 17. [Les extensions de format vidéo] (http://www.clashinfo.com/aide-informatique/multimedia/art138-extensions-format.html)
 18. [Tableau des principaux formats vidéo] (https://www.linternaute.com/hightech/micro/1092186-tout-sur-les-formats-multimedia/1092193-les-principaux-formats-video)
 19. [PRINCIPAUX FORMATS DE FICHIERS AUDIO ET VIDÉO] (https://interlangues.enseigne.ac-lyon.fr/spip/IMG/pdf/Formats_de_fichiers_audio_video.pdf)
+
+- [Codecs](Codecs.md)
