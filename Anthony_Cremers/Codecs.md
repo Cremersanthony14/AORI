@@ -5,7 +5,7 @@
 3. [Description du Codec] (ttps://www.bimportal.be/fr/projets/codec/)
 
 # articles concernant les codecs
-[différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs)
+[différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) 
 [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec)
 [format, codec, transcodage] (https://www.inis.qc.ca/cours/344/Format-codec-transcodage-de-la-prise-de-vue-a-la-distribution)
 [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs)
@@ -29,3 +29,4 @@
 [Codecs et conteneurs] (http://forum.mac-video.fr/articles/Codec/Codec.html)
 [codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-
 
+- [articles sur les formats vidéos](Formats_Vidéos.md)
