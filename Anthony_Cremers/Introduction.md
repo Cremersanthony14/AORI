@@ -11,10 +11,12 @@ Sur ce, bon visionnage et bonne visite sur mon site
 Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan de classement sur les articles et les références trouvées en lien avec les sujets. Voici le plan conçu au mieux
 
 - [Codecs](Codecs.md)
+La première partie concerne les différentes définitions sur le Codec
 1. [différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec) 
 2. [format, codec, transcodage] (https://www.inis.qc.ca/cours/344/Format-codec-transcodage-de-la-prise-de-vue-a-la-distribution) 3. 3. [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs) 
 
-<h1>- [Format vidéos] (videos.md)
+<h1>- [Format Codecs] (Codecs.md)
+ La seconde partie de ce travail relate tous les articles sur les différents formats vidéos
 4. [Codec et format audio video: explication] (https://zappiti.uservoice.com/knowledgebase/articles/1151272--vid%C3%A9o-codecs-et-formats-audio-vid%C3%A9o-explication) 
 5. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/) 
 6. [Codec: outil de compression pour l'audio/vidéo] (https://www.magix.com/fr-be/codec/) 
@@ -34,8 +36,9 @@ Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan d
 
 <h1>- [articles sur les formats vidéos] (articles videos.md)
 
-
 articles concernant les formats vidéos
+
+La troisième et dernière partie quand à elle concerne les différents formats vidéos
 
 20. [formats vidéos] (https://www.supinfo.com/articles/single/2564-mieux-connaitre-formats-video)
 21. [les différents formats vidéos] (https://www.linternaute.com/hightech/micro/1092186-tout-sur-les-formats-multimedia/1092193-les-principaux-formats-video)
