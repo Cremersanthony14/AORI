@@ -13,12 +13,9 @@ Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan d
 - [Codecs](Codecs.md)
 La première partie concerne les différentes définitions sur le Codec
 
-<h1>- [Format Codecs]
  La seconde partie de ce travail relate tous les articles sur les différents formats vidéos
 
-<h1>- [articles sur les formats vidéos](Formats_Vidéos.md)
-
-articles concernant les formats vidéos
+- [articles sur les formats vidéos](Formats_Vidéos.md)
 
 La troisième et dernière partie quand à elle concerne les différents formats vidéos
 
