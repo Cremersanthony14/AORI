@@ -9,7 +9,7 @@ Sur ce, bon visionnage et bonne visite sur mon site
 # Le plan de classement
 
 Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan de classement sur les articles et les références trouvées en lien avec les sujets. Voici le plan conçu au mieux
-\
+/
 
 ## [Codecs](Codecs.md)
 La première partie concerne les différentes définitions sur le Codec
