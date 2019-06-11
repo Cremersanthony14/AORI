@@ -8,7 +8,7 @@
 1. [différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec) 
 2. [format, codec, transcodage] (https://www.inis.qc.ca/cours/344/Format-codec-transcodage-de-la-prise-de-vue-a-la-distribution) 3. 3. [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs) 
 
-- [Format vidéos] (videos.md)
+<h1>- [Format vidéos] (videos.md)
 4. [Codec et format audio video: explication] (https://zappiti.uservoice.com/knowledgebase/articles/1151272--vid%C3%A9o-codecs-et-formats-audio-vid%C3%A9o-explication) 
 5. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/) 
 6. [Codec: outil de compression pour l'audio/vidéo] (https://www.magix.com/fr-be/codec/) 
@@ -26,7 +26,7 @@
 18. [Tableau Comparatif - Algorithmes de compression] (CoDecs)(https://www.philips.be/fr/c-f/XC000010636/quest-ce-quun-codec-et-pourquoi-dois-je-en-installer-un-sur-mon-pc-) 
 19. [Codecs et conteneurs] (http://forum.mac-video.fr/articles/Codec/Codec.html)
 
-- [articles sur les formats vidéos] (articles videos.md)
+<h1>- [articles sur les formats vidéos] (articles videos.md)
 
 
 articles concernant les formats vidéos
