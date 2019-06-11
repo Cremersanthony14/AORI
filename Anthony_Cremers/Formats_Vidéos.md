@@ -21,3 +21,4 @@ articles concernant les formats vidéos
 19. [PRINCIPAUX FORMATS DE FICHIERS AUDIO ET VIDÉO] (https://interlangues.enseigne.ac-lyon.fr/spip/IMG/pdf/Formats_de_fichiers_audio_video.pdf)
 
 - [Codecs](Codecs.md)
+- [Introduction](Introduction.md)
