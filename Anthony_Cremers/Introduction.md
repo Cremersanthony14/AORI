@@ -1,12 +1,14 @@
 <h1> Introduction 
-
-<h1>  Le plan de classement
-
-Ce site a été conçu dans le cadre d'un travail pour le cours d'architecture de l'informatique et ce site relate comme sujet: les formats vidéos et Codecs.
+ 
+ Ce site a été conçu dans le cadre d'un travail pour le cours d'architecture de l'informatique et ce site relate comme sujet: les formats vidéos et Codecs.
 
 Ci-dessous se trouve un plan de classement qui classe les articles par catégories qui se compose en 3 grandes parties: Les définitions, les articles sur le codec et ceux sur les formats vidéos.
 
 Sur ce, bon visionnage et bonne visite sur mon site
+
+<h1>  Le plan de classement
+
+Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan de classement sur les articles et les références trouvées en lien avec les sujets. Voici le plan conçu au mieux
 
 - [Codecs](Codecs.md)
 1. [différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec) 
