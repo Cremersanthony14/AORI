@@ -1,4 +1,4 @@
-<h1> Introduction 
+# Introduction 
  
  Ce site a été conçu dans le cadre d'un travail pour le cours d'architecture de l'informatique et ce site relate comme sujet: les formats vidéos et Codecs.
 
@@ -6,17 +6,17 @@ Ci-dessous se trouve un plan de classement qui classe les articles par catégori
 
 Sur ce, bon visionnage et bonne visite sur mon site
 
-<h1>  Le plan de classement
+# Le plan de classement
 
 Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan de classement sur les articles et les références trouvées en lien avec les sujets. Voici le plan conçu au mieux
-\\
+\
 
-- [Codecs](Codecs.md)
+## [Codecs](Codecs.md)
 La première partie concerne les différentes définitions sur le Codec
 
  La seconde partie de ce travail relate tous les articles sur les différents formats vidéos
 
-- [articles sur les formats vidéos](Formats_Vidéos.md)
+## [articles sur les formats vidéos](Formats_Vidéos.md)
 
 La troisième et dernière partie quand à elle concerne les différents formats vidéos
 
