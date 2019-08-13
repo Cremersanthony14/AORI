@@ -3,14 +3,13 @@
 1. [Codec] (https://fr.wikipedia.org/wiki/Codec) 
 2. [Glossaire du codec] (https://developer.mozilla.org/fr/docs/Glossaire/Codec)
 3. [Description du Codec] (ttps://www.bimportal.be/fr/projets/codec/)
-
 # articles concernant les codecs
 4. [différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) 
 5. [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec)
 6. [format, codec, transcodage] (https://www.inis.qc.ca/cours/344/Format-codec-transcodage-de-la-prise-de-vue-a-la-distribution)
 7. [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs)
 8. [Codec et format audio video: explication] (https://zappiti.uservoice.com/knowledgebase/articles/1151272--vid%C3%A9o-codecs-et-formats-audio-vid%C3%A9o-explication)
-9. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/)
+9. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/
 10. [Codec: outil de compression pour l'audio/vidéo] (https://www.magix.com/fr-be/codec/)
 11. [Quels sont les différents types de codecs ?] (https://www.3cx.fr/voip-sip/codecs/)
 12. [Comprendre les codecs] (http://www.nticweb.com/pratique/6953-comprendre-les-codecs-vid%C3%A9o.html)
@@ -20,8 +19,6 @@
 16. [traitement du signal codec] (http://www.traitement-signal.com/codec.php)
 17. [Liste des coedcs 1]  (http://www.traitement-signal.com/codec.php)
 18. [Liste des codecs 2] (http://www.traitement-signal.com/mace_(codec).php)
-19. [Telechargements de codecs] (https://filehippo.com/fr/software/multimedia/codecs/)
-20. [Codecs manquant audio-video] (https://www.commentcamarche.net/faq/2588-codec-audio-video-manquant-determiner-les-codecs-necessaires)
 21. [LES CONTENEURS VIDEO, LES CODECS et le convertisseur vidéo WINFF] (http://info.page.free.fr/tutos/WinFF_convertisseur_video.pdf)
 (https://ffmpeg.org/ffmpeg-codecs.html)
 22. [Les codecs - Formats vidéo] (http://www.aidewindows.net/xp/logiciels_codecs_affichage.php)
@@ -30,4 +27,3 @@
 25. [codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-
 
 - [articles sur les formats vidéos](Formats_Vidéos.md)
-- [Introduction](Introduction.md)
