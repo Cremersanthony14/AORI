@@ -9,15 +9,8 @@ Sur ce, bon visionnage et bonne visite sur mon site
 # Le plan de classement
 
 Pour pouvoir structurer au mieux ce site, il a été demandé de faire un plan de classement sur les articles et les références trouvées en lien avec les sujets. Voici le plan conçu au mieux
-/
 
-## [Codecs](Codecs.md)
-La première partie concerne les différentes définitions sur le Codec
 
- La seconde partie de ce travail relate tous les articles sur les différents formats vidéos
-
-## [articles sur les formats vidéos](Formats_Vidéos.md)
-
-La troisième et dernière partie quand à elle concerne les différents formats vidéos
-
-38. https://github.com/Cremersanthony14/AORI/issues
+Classe A:  Les Codecs
+Définition du mot "Codec"
+ Sous-classe 1: les différents Codec
