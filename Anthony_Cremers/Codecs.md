@@ -6,8 +6,6 @@
 # articles concernant les codecs
 4. [différences des codecs] (http://www.aidewindows.net/xp/logiciels_codecs.php#codecs) 
 5. [vidéo codec] (https://en.wikipedia.org/wiki/Video_codec)
-6. [format, codec, transcodage] (https://www.inis.qc.ca/cours/344/Format-codec-transcodage-de-la-prise-de-vue-a-la-distribution)
-7. [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs)
 8. [Codec et format audio video: explication] (https://zappiti.uservoice.com/knowledgebase/articles/1151272--vid%C3%A9o-codecs-et-formats-audio-vid%C3%A9o-explication)
 9. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/
 11. [Quels sont les différents types de codecs ?] (https://www.3cx.fr/voip-sip/codecs/)
@@ -17,8 +15,4 @@
 15. [Comment régler un problème de codec video sur Android ?] (http://www.prodigemobile.com/tutoriel/probleme-codec-video-android/)
 17. [Liste des coedcs 1]  (http://www.traitement-signal.com/codec.php)
 18. [Liste des codecs 2] (http://www.traitement-signal.com/mace_(codec).php)
-23. [Tableau Comparatif - Algorithmes de compression] (CoDecs)(https://www.philips.be/fr/c-f/XC000010636/quest-ce-quun-codec-et-pourquoi-dois-je-en-installer-un-sur-mon-pc-)
-24. [Codecs et conteneurs] (http://forum.mac-video.fr/articles/Codec/Codec.html)
-25. [codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-
-
 - [articles sur les formats vidéos](Formats_Vidéos.md)
