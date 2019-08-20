@@ -10,18 +10,13 @@
 7. [Codage, codec, conversion] (https://www.gypsevideo.fr/tout-savoir-sur-la-video/les-techniques/codecs)
 8. [Codec et format audio video: explication] (https://zappiti.uservoice.com/knowledgebase/articles/1151272--vid%C3%A9o-codecs-et-formats-audio-vid%C3%A9o-explication)
 9. [quel Codec vidéo choisir] (https://www.apprendrelavideo.fr/codecs-video-lequel-choisir/
-10. [Codec: outil de compression pour l'audio/vidéo] (https://www.magix.com/fr-be/codec/)
 11. [Quels sont les différents types de codecs ?] (https://www.3cx.fr/voip-sip/codecs/)
 12. [Comprendre les codecs] (http://www.nticweb.com/pratique/6953-comprendre-les-codecs-vid%C3%A9o.html)
 13. [Comment sélectionner un codec ?] (http://fre-ca.faq.panasonic.com/app/answers/detail/a_id/47091/~/comment-s%C3%A9lectionner-un-codec-%28format-vid%C3%A9o%29.)
 14. [Codec format pour la projection video] (https://formations.afdas.com/intermittents/stages-conventionnes/stages-techniques/fichiers-media-codecs-et-formats-pour-la-projection-video/224595)
 15. [Comment régler un problème de codec video sur Android ?] (http://www.prodigemobile.com/tutoriel/probleme-codec-video-android/)
-16. [traitement du signal codec] (http://www.traitement-signal.com/codec.php)
 17. [Liste des coedcs 1]  (http://www.traitement-signal.com/codec.php)
 18. [Liste des codecs 2] (http://www.traitement-signal.com/mace_(codec).php)
-21. [LES CONTENEURS VIDEO, LES CODECS et le convertisseur vidéo WINFF] (http://info.page.free.fr/tutos/WinFF_convertisseur_video.pdf)
-(https://ffmpeg.org/ffmpeg-codecs.html)
-22. [Les codecs - Formats vidéo] (http://www.aidewindows.net/xp/logiciels_codecs_affichage.php)
 23. [Tableau Comparatif - Algorithmes de compression] (CoDecs)(https://www.philips.be/fr/c-f/XC000010636/quest-ce-quun-codec-et-pourquoi-dois-je-en-installer-un-sur-mon-pc-)
 24. [Codecs et conteneurs] (http://forum.mac-video.fr/articles/Codec/Codec.html)
 25. [codecs videos le tableau des spécifications techniques)] (http://blog.sylvainberard.com/2018/01/18/codecs-videos-tableau-de-
